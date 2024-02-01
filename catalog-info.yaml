@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: address-index-api
+  annotations:
+    github.com/project-slug: ONS-Innovation/address-index-api
+spec:
+  type: other
+  lifecycle: unknown
+  owner: sdp-test

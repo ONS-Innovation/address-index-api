@@ -4,7 +4,6 @@ metadata:
   name: address-index-api
   annotations:
     github.com/project-slug: ONS-Innovation/address-index-api
-    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown

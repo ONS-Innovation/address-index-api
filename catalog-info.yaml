@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: ONS-Innovation/address-index-api
 spec:
-  type: other
+  type: API
   lifecycle: unknown
   owner: sdp-test
